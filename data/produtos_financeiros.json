@@ -38,5 +38,85 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + taxa prefixada",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação no longo prazo"
+  },
+  {
+    "nome": "Tesouro Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Taxa fixa anual",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Quem acredita na queda da taxa de juros"
+  },
+  {
+    "nome": "Debêntures",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + taxa ou prefixada",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidor que busca maior retorno aceitando risco de crédito"
+  },
+  {
+    "nome": "CRI/CRA",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + taxa ou IPCA + taxa",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidor que busca isenção de IR com prazo maior"
+  },
+  {
+    "nome": "ETF de Índice (ex: BOVA11)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Acompanha o índice (ex: Ibovespa)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem quer diversificação com baixo custo"
+  },
+  {
+    "nome": "Ações Individuais",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidor com conhecimento e foco no longo prazo"
+  },
+  {
+    "nome": "Fundos Imobiliários (FIIs)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Dividendos + valorização",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Renda passiva mensal isenta de IR"
+  },
+  {
+    "nome": "Previdência Privada (PGBL/VGBL)",
+    "categoria": "previdencia",
+    "risco": "baixo",
+    "rentabilidade": "Depende do fundo",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Planejamento de aposentadoria e benefício fiscal"
+  },
+  {
+    "nome": "COE (Certificado de Operações Estruturadas)",
+    "categoria": "estruturado",
+    "risco": "medio",
+    "rentabilidade": "Atrelado a cenários de mercado",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem busca retornos diferenciados com proteção parcial"
+  },
+  {
+    "nome": "Conta Remunerada",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% do CDI",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Liquidez diária com rendimento automático"
   }
 ]
