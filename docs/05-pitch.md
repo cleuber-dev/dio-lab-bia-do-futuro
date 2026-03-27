@@ -58,11 +58,11 @@ ajudar pessoas a tomarem decisões financeiras mais conscientes, promovendo educ
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
+- [x] Duração máxima de 3 minutos
 - [x] Problema claramente definido
-- [ ] Solução demonstrada na prática
+- [x] Solução demonstrada na prática
 - [x] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [x] Áudio e vídeo com boa qualidade (Áudio um pouco baixo)
 
 ---
 
@@ -70,4 +70,4 @@ ajudar pessoas a tomarem decisões financeiras mais conscientes, promovendo educ
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+https://drive.google.com/file/d/13KdXLMhea50_TMDqXn16BtMmCJyacSuH/view?usp=sharing
